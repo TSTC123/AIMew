@@ -1,0 +1,22 @@
+<RCC>
+    <qresource prefix="/">
+        <file>image/angry.gif</file>
+        <file>image/animation1.gif</file>
+        <file>image/animation2.gif</file>
+        <file>image/animation3.gif</file>
+        <file>image/animation4.gif</file>
+        <file>image/animation5.gif</file>
+        <file>image/animation6.gif</file>
+        <file>image/animation7.gif</file>
+        <file>image/animation8.gif</file>
+        <file>image/animation9.gif</file>
+        <file>image/animation10.gif</file>
+        <file>image/animation11.gif</file>
+        <file>image/cachinnation.gif</file>
+        <file>image/icon.png</file>
+        <file>music/Otokaze - 夏恋.mp3</file>
+        <file>music/ラブリーサマーちゃん、泉まくら - 202 feat. 泉まくら (NewMix).mp3</file>
+        <file>music/放課後ティータイム - 天使にふれたよ! (相遇天使).mp3</file>
+        <file>music/林二汶 - 仙乐飘飘处处闻.mp3</file>
+    </qresource>
+</RCC>
